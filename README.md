@@ -1,1 +1,1 @@
-# python-lambda-fetch-cloud-watch-logs
+# python-lambda-cwlogs-filter
